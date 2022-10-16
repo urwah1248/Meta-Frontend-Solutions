@@ -1,0 +1,49 @@
+* {
+    font-family: sans-serif;
+}
+input,
+button {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+input {
+    display: block;
+    margin-bottom: 20px;
+    width: 30%  ;
+    padding: 10px 0;
+    text-indent: 10px;
+}
+button {
+    border: 1px solid gray;
+    background: whitesmoke;
+    margin-right: 5px;
+}
+.screen{
+    background-color: rgb(151, 177, 149);
+    color: black;
+    width: 30%;
+    height: 50px;
+    align-items: center;
+    line-height: 50px;
+    font-size: 40px;
+    text-indent: 10px;
+}
+.operationButtons{
+    display: grid;
+    width: 50%;
+    grid-template-columns: auto auto;
+}
+.resetButtons{
+    display: grid;
+    width: 30%;
+    grid-template-columns: 50% 50%;
+}
+.buttonholder{
+    display: flex;
+    width: 30%;
+}
+.resetButtons button{
+    background: tomato;
+    color: white;
+}
