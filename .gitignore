@@ -1,3 +1,4 @@
+6 React Advanced/my-react-app
 5 React Basics/Week4/Build A Calculator App - Graded Assessment/node_modules/.package-lock.json
 5 React Basics/Week4/Build A Calculator App - Graded Assessment/node_modules/.bin/acorn
 5 React Basics/Week4/Build A Calculator App - Graded Assessment/node_modules/.bin/acorn.cmd
@@ -29771,3 +29772,10 @@
 5 React Basics/Week4/Build A Calculator App - Graded Assessment/node_modules/mathjs/lib/esm/entry/dependenciesAny/dependenciesRangeClass.generated.js
 5 React Basics/Week4/Build A Calculator App - Graded Assessment/node_modules/mathjs/lib/esm/entry/dependenciesAny/dependenciesRangeNode.generated.js
 5 React Basics/Week4/Build A Calculator App - Graded Assessment/node_modules/mathjs/lib/esm/entry/dependenciesAny/dependenciesRangeTransform.generated.js
+
+*/node_modules
+6 React Advanced/my-react-app/INSTRUCTIONS.md
+6 React Advanced/my-react-app/src/index.jsx
+6 React Advanced/my-react-app/src/ThemeContext.jsx
+6 React Advanced/my-react-app/src/Switch/index.jsx
+6 React Advanced/my-react-app/src/Switch/Styles.css
